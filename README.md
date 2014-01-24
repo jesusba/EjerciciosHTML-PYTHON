@@ -1,4 +1,4 @@
-EjerciciosHTML-PYTHON
+HTML-PYTHON
 =====================
 
-Realizaciones de ejercicios en html y python
+Realizaciones de ejercicios en HTML y Python
